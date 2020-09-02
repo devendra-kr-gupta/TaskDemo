@@ -1,0 +1,28 @@
+{
+  "offerArray": [
+    "offer1",
+    "offer2",
+    "offer3"
+    ],
+  
+  "catoryArray": [
+    "vaggies",
+    "Fruits",
+    "Organic",
+    "Protiens",
+    "other"
+  ],
+  "bestSellingArray": [
+    "Fresh Bananas",
+    "Apples",
+    "Fresh Grapes",
+    "other"
+  ],
+  "recommendedArray": [
+    "Fresh Brinjals",
+    "Mangoes",
+    "Fresh Orange",
+    "other"
+  ]
+  
+}

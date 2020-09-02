@@ -10,9 +10,16 @@ import UIKit
 
 class CategoryCell: UICollectionViewCell {
 
+    @IBOutlet weak var containerView: UIView!
+    @IBOutlet weak var categoryImageView: UIImageView!
+    @IBOutlet weak var categoryName: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        
+        containerView.setCornerRadiusWith(radius: 5.0, borderWidth: 1.0, borderColor: .clear)
+
     }
 
 }
